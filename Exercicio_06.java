@@ -20,6 +20,8 @@ public class Exercicio_06
         B = sc.nextDouble();
         C = sc.nextDouble();
 
+        System.out.println("CALCULANDO ........ ");
+
         triangulo = A * C / 2.0;
         circulo = PI * C * C;
         trapezio = (A + B) / 2.0 * C;
