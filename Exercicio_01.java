@@ -9,6 +9,7 @@ public class Exercicio_01
         Scanner sc = new Scanner(System.in);
 
         int A, B, soma;
+        String nome = "SERGIO";
 
         System.out.println("Digite o primeiro numero");
         A = sc.nextInt();
