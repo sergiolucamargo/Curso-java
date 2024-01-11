@@ -19,6 +19,7 @@ public class Exercicio_01
         soma = A + B;
 
         System.out.println("SOMA = " + soma);
+        System.out.println("Final do Programa");
 
         sc.close();
 
